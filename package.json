@@ -10,7 +10,7 @@
     "deploy": "gh-pages -d web-build",
     "predeploy": "expo export:web"
   },
-  "homepage": "http://whoareyou-instagram.github.io/whoareyou-instagram",
+  "homepage": "http://whoareyou-instagram.github.io/whoareyou",
   "dependencies": {
     "@expo/webpack-config": "^18.0.1",
     "expo": "~48.0.10",
